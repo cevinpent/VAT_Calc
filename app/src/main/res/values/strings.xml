@@ -1,0 +1,14 @@
+<resources>
+    <string name="appname">Calculations</string>
+    <string name="Uprice">Enter a number</string>
+    <string name="numberrofunits">Enter a number</string>
+    <string name="unitprice1">Unit price</string>
+    <string name="NRofunits1">Number of units</string>
+    <string name="exclvat">Unit price excl. VAT</string>
+    <string name="inclvat">Unit price incl. VAT</string>
+    <string name="clear">Clear</string>
+    <string name="OK">OK</string>
+    <string name="Amount">Amount excl. of VAT</string>
+    <string name="VAT">VAT</string>
+    <string name="amountincl">Amount incl. of VAT</string>
+</resources>
